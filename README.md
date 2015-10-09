@@ -28,3 +28,12 @@ Add a couple lines of text and click 'commit new file'. This file is now added t
 
 If we now want to pull this file back down from the Web service, we go to the desktop app and click the 'Sync' button in the top right corner
 
+We can check out the details of this sync by clicking on the 'History' tab in GitHUb Desktop.
+
+Now this file (and any others that have been added to the online master since pushing the repo to the web service) will be in our LOCAL repository
+
+We can now edit this read.me file locally, and when we look in the 'Uncommited Changes' tab we will see the file's edits shown in the right coloumn next to the file name that's changed in the left column.
+
+We now add a new commit message for these changes we just made
+
+Now click 'commit to master' to add it in to our local repository's master branch
