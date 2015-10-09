@@ -37,3 +37,5 @@ We can now edit this read.me file locally, and when we look in the 'Uncommited C
 We now add a new commit message for these changes we just made
 
 Now click 'commit to master' to add it in to our local repository's master branch
+
+At this point we now click 'sync' in the top right corner of the desktop app to push changes to the remote repository / web service
